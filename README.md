@@ -62,4 +62,4 @@ Manohar V :
 
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/my_self_manu_)
 
-Thank you for visiting the page!v
+Thank you for visiting the page!
