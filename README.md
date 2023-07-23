@@ -1,19 +1,19 @@
 # js_project2_TO_DO_list
 
-NK💛--To do list App
+Manohar V -To do list App
 ## Description 
 
 📝✅ MyToDoList: A responsive to-do list website 🌐📱 built using HTML, CSS, and JS. Save your tasks and data will persist until cleared.
 ## Authors
 
-- [NK💛](https://www.github.com/nishap24) 
+- [Manohar V](https://www.github.com/Manohar5147) 
 
 
 ## Demo
 
 Live Demo:
 
-https://nishap24.github.io/JS-Project-Day-2-To-Do-List-App/
+
 
     
 ## Getting Started
@@ -43,7 +43,7 @@ To explore or modify the code, follow these steps:
 
 ## Deployment status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/09b13d6c-4503-492e-82ba-e6d93675f69e/deploy-status)](https://app.netlify.com/sites/manohar-weather-app/deploys)
+
 
 ## Contributing
 
